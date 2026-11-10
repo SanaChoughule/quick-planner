@@ -1,0 +1,6 @@
+{
+  "name": "QuickPlanner - Midnight Neon Dashboard",
+  "description": "High-velocity daily planner and time-blocking command dashboard with a sleek midnight neon visual architecture, Pomodoro focus engine, Eisenhower priority matrix, and weekly velocity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
